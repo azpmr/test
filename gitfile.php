@@ -1,3 +1,4 @@
 <?
 echo "git";
+echo "local";
 ?>
