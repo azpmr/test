@@ -1,3 +1,3 @@
 <?php
-echo "master branch!";
+echo "master branch GITHUB!";
 ?>
