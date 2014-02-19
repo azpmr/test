@@ -1,3 +1,3 @@
 <?php
-echo "second branch GITHUB!";
+echo "second branch GITHUB - local!";
 ?>
